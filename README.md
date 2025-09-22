@@ -18,3 +18,4 @@ A simple Java-based calculator application that allows users to perform basic ar
 - Open project in IDE.
 - Compile the code.
 - Run the program.
+- Exit the calculator.
