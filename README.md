@@ -7,7 +7,7 @@ A simple Java-based calculator application that allows users to perform basic ar
 - Supports continuous operations without restarting the program.
 - Clean and simple console-based interface.
 
-## Tech Stack
+## Technologies Used
 - Java
 - Scanner Class for Input
 - Object Oriented Programming (OOP)
