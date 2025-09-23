@@ -1,4 +1,4 @@
-# Basic-Calculator
+# Basic Calculator
 A simple Java-based calculator application that allows users to perform basic arithmetic operations like addition, subtraction, multiplication, and division. The program uses object-oriented programming concepts, methods, conditionals, loops, and input/output to provide a user-friendly interactive experience.
 
 ## Features
@@ -14,7 +14,7 @@ A simple Java-based calculator application that allows users to perform basic ar
 
 ## Steps to run
 - Install the JDK.
-- Clone the repository.
+- Clone or download the repository.
 - Open project in IDE.
 - Compile the code.
 - Run the program.
